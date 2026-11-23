@@ -1,2 +1,2 @@
 # delta-demo
-first git hub using delta
+first git hub using delta.
